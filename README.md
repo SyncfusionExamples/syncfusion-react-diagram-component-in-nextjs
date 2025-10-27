@@ -2,15 +2,6 @@
 
 This application demonstrates the usage of the Syncfusion React Diagram component in Next.js. The Syncfusion React Diagram component is a feature-rich library that enables you to create and manipulate diagrams with ease. It supports various types of diagrams including flowcharts, organizational charts, mind maps, and network diagrams.
 
-## Features
-
-* Interactive diagram creation and editing
-* Built-in shape library with 600+ shapes
-* Automatic layout algorithms
-* Customizable appearance and behavior
-* Undo/redo capabilities
-* Export to various formats (PNG, JPEG, SVG)
-
 To know how to configure the Syncfusion React Diagram component in Next.js, refer to the [documentation](https://ej2.syncfusion.com/react/documentation/diagram/nextjs-getting-started).
 
 ## Prerequisites
