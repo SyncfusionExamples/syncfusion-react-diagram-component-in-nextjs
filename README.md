@@ -1,8 +1,8 @@
 # Getting Started with React UI Components using Next.js
 
-This application demonstrates the usage of the [React Diagram](https://www.syncfusion.com/react-components/react-diagram) component in Next.js. The [React Diagram](https://www.syncfusion.com/react-components/react-diagram) component is a feature-rich library that enables you to create and manipulate diagrams with ease. It supports various types of diagrams including flowcharts, organizational charts, mind maps, and network diagrams.
+This application demonstrates the usage of the React Diagram component in Next.js. The [React Diagram](https://www.syncfusion.com/react-components/react-diagram) component is a feature-rich library that enables you to create and manipulate diagrams with ease. It supports various types of diagrams including flowcharts, organizational charts, mind maps, and network diagrams.
 
-To know how to configure the [React Diagram](https://www.syncfusion.com/react-components/react-diagram) component in Next.js, refer to the [documentation](https://ej2.syncfusion.com/react/documentation/diagram/nextjs-getting-started).
+To know how to configure the React Diagram component in Next.js, refer to the [documentation](https://ej2.syncfusion.com/react/documentation/diagram/nextjs-getting-started).
 
 ## Prerequisites
 
